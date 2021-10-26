@@ -11,3 +11,5 @@ for i in range(4):   # for 변수 in range() 는 변수를 괄호 안에 있는 
     t.write("안녕하세요? " + s +"씨, 터틀 인사드립니다.")   # 변수명.write("내용")
     t.left(90)   # 왼쪽으로 회전
     t.forward(100)   # 100픽셀 앞으로 이동
+
+    
